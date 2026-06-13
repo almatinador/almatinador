@@ -1,9 +1,9 @@
-![logo](https://github.com/Ishtiak007/Ishtiak007/blob/main/NewBanner.jpg)
+![logo](https://github.com/almatinador/almatinador/blob/main/al%20matin%20cover.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak007&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak007" /> </p>
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hello,+!+👋;+I+am+Ishtiak+Ahmed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hello,+!+👋;+I+am+Al+Matin+Ador!;" />
 </h1>
 
 <h3 align="center">Computer Science and Engineering (CSE) student & passionate about AI and Full-Stack MERN enthusiast from Bangladesh (BD), crafting digital experiences with modern web technologies.</h3>
