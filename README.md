@@ -1,5 +1,5 @@
 ![logo](https://github.com/almatinador/almatinador/blob/main/al%20matin%20cover.jpg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak007&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almatinador&label=Profile%20views&color=0e75b6&style=flat" alt="almatinador" /> </p>
 
 
 <h1 align="center">
@@ -15,7 +15,7 @@
 <div align="center">
 <h2 align="center">📢 About Me📢</h2>
 <br>
-<p>I'm Ishtiak Ahmed from Rangpur, Bangladesh. I am studying a Bachelor of Science (BSc.) in Computer Science and Engineering (CSE) from University of Rajshahi.
+<p>I'm Al Matin from Rangpur, Bangladesh. I am studying a Bachelor of Science (BSc.) in Computer Science and Engineering (CSE) from University of Rajshahi.
 I am a enthusiastic full-stack web developer with hands-on experience in MERN stack technologies (MongoDB, Express.js, React.js, Node.js) and Next.js, Redux, TypeScript, and Tailwind CSS.
 
 With 1.5 year of hands-on experience in coding, I am inspired to develop innovative, scalable, and user-focused web solutions. My learning bent and problem-solving nature compel me to update and enhance myself amidst the ever-changing world of technology.
@@ -88,7 +88,7 @@ Let's join and do something worthwhile together!
 <h2 align="center">🌟 Profile Summary 🌟</h2>
 <br>
 
-  ![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak007&theme=dark)
+  ![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almatinador&theme=dark)
 </div>
 
 
@@ -98,15 +98,15 @@ Let's join and do something worthwhile together!
 <h2 align="center">💻 Top Language & Commit stats 💻</h2>
 <br>
 
-  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishtiak007&theme=dark)
-  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishtiak007&theme=dark)
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=almatinador&theme=dark)
+  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=almatinador&theme=dark)
 </div>
 
 <div align="center">
 <br>
 
-  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishtiak007&theme=dark)
-  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishtiak007&theme=dark&utcOffset=8)
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=almatinador&theme=dark)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=almatinador&theme=dark&utcOffset=8)
 </div>
 
 
