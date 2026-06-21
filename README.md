@@ -6,14 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hello,+!+👋;+I+am+Al+Matin+Ador!;" />
 </h1>
 
-<h3 align="center">Computer Science and Engineering (CSE) student & passionate about AI and Full-Stack MERN enthusiast from Bangladesh (BD), crafting digital experiences with modern web technologies.</h3>
+<h3 align="center">Computer Science and Engineering student from Bangladesh, passionate about Artificial Intelligence and Frontend development, dedicated to building modern, scalable, and impactful web applications that deliver exceptional user experiences.</h3>
 <br/>
 
 
 <hr>
 
 <div align="center">
-<h2 align="center">📢 About Me📢</h2>
+<h2 align="center">About Me</h2>
 <br>
 <p>I'm Al Matin from Rangpur, Bangladesh. I am studying a Bachelor of Science (BSc.) in Computer Science and Engineering (CSE) from University of Rajshahi.
 I am a enthusiastic full-stack web developer with hands-on experience in MERN stack technologies (MongoDB, Express.js, React.js, Node.js) and Next.js, Redux, TypeScript, and Tailwind CSS.
